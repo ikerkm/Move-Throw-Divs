@@ -1,0 +1,14 @@
+.pj {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    position: relative;
+}
+
+.Proyectil {
+    position: absolute;
+    height: 10px;
+    width: 10px;
+
+    background-color: red;
+}
